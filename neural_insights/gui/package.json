@@ -13,7 +13,7 @@
     "cytoscape-elk": "^2.2.0",
     "cytoscape-node-html-label": "^1.2.2",
     "moment": "^2.29.4",
-    "plotly.js": "^2.24.3",
+    "plotly.js": "^2.32.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-cytoscapejs": "^2.0.0",
